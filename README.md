@@ -1,1 +1,3 @@
 # Solusi-GLB-Model-Fisika-Sederhana
+GLB (Gerak Lurus Beraturan) adalah gerak lurus yang memiliki kecepatan konstan dikarenakan tidak ada percepatan yang bekerja pada objek. Nilai percepatannya adalah nol (a=0). Jadi, benda akan bergerak stabil, tidak dipercepat ataupun diperlambat.
+Pembuatan Model Fisika untuk Solusi GLB pada Ms. Excel adalah dengan menginput variabel t, s, h, dan v pada Ms.Excel. t untuk waktu, s untuk posisi, h untuk ketinggian, dan v untuk kecepatan. Pertama, nilai diinput untuk masing-masing variabel, nilai sembarang untuk waktu t, 0 untuk ketinggian h, 15 untuk kecepatan v, dan rumus diinput untuk posisi s dengan mengalikan waktu dan kecepatan. Masing-masing variabel terdiri dari satu kolom.
